@@ -4,10 +4,6 @@ Terminal Directory Project
 
 *Indexing open source projects that run in terminal.*
 
-**This project is in early planning stage, please help out in:** `#1`_.
-
-.. _#1: https://github.com/TermDir/INDEX/issues/1
-
 
 .. contents:: **Contents**
    :local:
