@@ -32,11 +32,7 @@ There are strict criteria for the projects to be included in the directories:
 
 * Must be over one year old
 * Must be open source or in public domain
-* Must either support English or can be used without difficulties regardless
-  the languages users speak
-* Must have the following notability criteria:
-
-  * Must receive reasonable coverage
+* Must be able to be run and understood by users who only speak English
 
 
 Directories
